@@ -1,0 +1,28 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    text-size-adjust: 600px;
+    color: cadetblue;
+
+}
+h4{
+    text-align: center;
+    text-size-adjust: 600px;
+    color: cadetblue;
+
+}
+h5{
+    text-align: center;
+    text-size-adjust: 1600px;
+    color: cadetblue;
+}
