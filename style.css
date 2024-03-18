@@ -10,20 +10,23 @@ h2{
     text-align: center;
 
 }
-h3{
+h3{ font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-size-adjust: 600px;
-    color: cadetblue;
+    color: red;
 
 }
-h4{
+h4{ font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-size-adjust: 600px;
-    color: cadetblue;
+    color: red;
 
 }
-h5{
+h5{ font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-size-adjust: 1600px;
-    color: cadetblue;
+    color: red;
+}
+body{
+    
 }
